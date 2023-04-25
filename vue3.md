@@ -1,4 +1,3 @@
-<strong style="color:red">sgg</strong>
 
 ## Vue3快速上手1
 
