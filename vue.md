@@ -87,7 +87,7 @@ vite官网：https://vitejs.cn
   - 真正的按需编译，不再等待整个应用编译完成。
 - 传统构建 与 vite构建对比图
 
-```bash
+```bash1
 ## 创建工程
 npm init vite-app <project-name>(vue3_test_vite)
 ## 进入工程目录
