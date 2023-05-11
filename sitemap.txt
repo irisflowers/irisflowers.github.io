@@ -1,5 +1,7 @@
 http://example.com/gallery/%E6%9D%AD%E5%B7%9E/index.html
 http://example.com/gallery/index.html
+http://example.com/gallery/%E6%B1%9F%E8%8B%8F/index.html
+http://example.com/gallery/%E6%9D%AD%E5%B7%9E%20-%20%E5%89%AF%E6%9C%AC/index.html
 http://example.com/2023/05/11/hexo/
 http://example.com/2022/07/08/travel/%E5%91%A8%E5%85%AD%E5%87%BA%E5%8E%BB%E7%8E%A9/
 http://example.com/2023/05/07/travel/suzhou/

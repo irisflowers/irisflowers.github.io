@@ -20,6 +20,24 @@
   </url>
   
   <url>
+    <loc>http://example.com/gallery/%E6%B1%9F%E8%8B%8F/index.html</loc>
+    
+    <lastmod>2023-05-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/gallery/%E6%9D%AD%E5%B7%9E%20-%20%E5%89%AF%E6%9C%AC/index.html</loc>
+    
+    <lastmod>2023-05-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/2023/05/11/hexo/</loc>
     
     <lastmod>2023-05-11</lastmod>
