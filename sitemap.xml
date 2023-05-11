@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2023/05/09/01%20html5/</loc>
+    <loc>http://example.com/gallery/index.html</loc>
     
     <lastmod>2023-05-11</lastmod>
     
@@ -11,7 +11,70 @@
   </url>
   
   <url>
-    <loc>http://example.com/2023/05/07/02%20js/</loc>
+    <loc>http://example.com/2023/05/11/hexo/</loc>
+    
+    <lastmod>2023-05-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/gallery/%E6%9D%AD%E5%B7%9E/index.html</loc>
+    
+    <lastmod>2023-05-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2022/07/08/travel/%E5%91%A8%E5%85%AD%E5%87%BA%E5%8E%BB%E7%8E%A9/</loc>
+    
+    <lastmod>2023-05-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2023/05/07/travel/suzhou/</loc>
+    
+    <lastmod>2023-05-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2023/05/11/hello-world/</loc>
+    
+    <lastmod>2023-05-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2022/07/08/front-end/nodejs/</loc>
+    
+    <lastmod>2023-05-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2023/05/01/front-end/uniapp/</loc>
+    
+    <lastmod>2023-05-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2023/05/07/front-end/js/</loc>
     
     <lastmod>2023-05-10</lastmod>
     
@@ -20,7 +83,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2023/05/08/07%20vue/</loc>
+    <loc>http://example.com/2023/05/08/front-end/vue/</loc>
     
     <lastmod>2023-05-10</lastmod>
     
@@ -29,7 +92,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2023/05/07/03%20jquery/</loc>
+    <loc>http://example.com/2023/05/07/front-end/jquery/</loc>
     
     <lastmod>2023-05-10</lastmod>
     
@@ -38,7 +101,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2023/05/07/01%20css3/</loc>
+    <loc>http://example.com/2023/05/07/front-end/css3/</loc>
     
     <lastmod>2023-05-10</lastmod>
     
@@ -47,7 +110,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2023/05/08/08%20echarts/</loc>
+    <loc>http://example.com/2023/05/08/front-end/echarts/</loc>
     
     <lastmod>2023-05-10</lastmod>
     
@@ -56,16 +119,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2023/05/08/09%20element%20ui/</loc>
-    
-    <lastmod>2023-05-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/2023/05/09/%E6%9D%AD%E5%B7%9E/</loc>
+    <loc>http://example.com/2023/05/09/travel/hangzhou/</loc>
     
     <lastmod>2023-05-09</lastmod>
     
@@ -74,7 +128,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2023/05/07/%E5%91%A8%E5%85%AD%E5%87%BA%E5%8E%BB%E7%8E%A9/</loc>
+    <loc>http://example.com/2023/05/08/front-end/vue3/</loc>
     
     <lastmod>2023-05-09</lastmod>
     
@@ -83,7 +137,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2023/05/08/07%20vue3/</loc>
+    <loc>http://example.com/2023/02/12/front-end/es6/</loc>
     
     <lastmod>2023-05-09</lastmod>
     
@@ -92,7 +146,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2023/02/19/06%20nodejs/</loc>
+    <loc>http://example.com/2023/05/07/front-end/ajax/</loc>
     
     <lastmod>2023-05-09</lastmod>
     
@@ -101,43 +155,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2023/02/12/05%20js-es6/</loc>
-    
-    <lastmod>2023-05-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/2023/05/07/04%20ajax/</loc>
-    
-    <lastmod>2023-05-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/2023/05/07/%E8%8B%8F%E5%B7%9E%E4%B8%A4%E6%97%A5%E6%B8%B8/</loc>
-    
-    <lastmod>2023-05-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/2023/05/08/10%20uniapp/</loc>
-    
-    <lastmod>2023-05-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/2023/05/08/02%20js-xz/</loc>
+    <loc>http://example.com/2023/05/08/front-end/js-xz/</loc>
     
     <lastmod>2023-05-09</lastmod>
     
@@ -172,15 +190,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>http://example.com/2023/05/07/hello-world/</loc>
-    
-    <lastmod>2023-05-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>http://example.com/</loc>
@@ -191,7 +200,49 @@
 
   
   <url>
+    <loc>http://example.com/tags/hexo/</loc>
+    <lastmod>2023-05-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2023-05-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/Hexo/</loc>
+    <lastmod>2023-05-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/%E5%87%BA%E5%8E%BB%E7%8E%A9/</loc>
+    <lastmod>2023-05-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/%E4%BA%A4%E4%BA%92/</loc>
+    <lastmod>2023-05-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/tags/css/</loc>
+    <lastmod>2023-05-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/ECMAScript/</loc>
     <lastmod>2023-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -212,14 +263,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/ECMAScript/</loc>
-    <lastmod>2023-05-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/%E4%BA%A4%E4%BA%92/</loc>
+    <loc>http://example.com/tags/nodejs/</loc>
     <lastmod>2023-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -233,34 +277,13 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E7%BB%84%E4%BB%B6%E5%BA%93/</loc>
-    <lastmod>2023-05-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/%E5%87%BA%E5%8E%BB%E7%8E%A9/</loc>
-    <lastmod>2023-05-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/html5/</loc>
+    <loc>http://example.com/tags/%E5%89%8D%E7%AB%AF/</loc>
     <lastmod>2023-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
 
-  
-  <url>
-    <loc>http://example.com/categories/javascript/</loc>
-    <lastmod>2023-05-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
   <url>
     <loc>http://example.com/categories/%E5%89%8D%E5%90%8E%E7%AB%AF%E4%BA%A4%E4%BA%92/</loc>
@@ -271,6 +294,13 @@
   
   <url>
     <loc>http://example.com/categories/%E5%89%8D%E7%AB%AF/</loc>
+    <lastmod>2023-05-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/javascript/</loc>
     <lastmod>2023-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
