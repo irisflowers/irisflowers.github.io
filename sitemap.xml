@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/gallery/%E8%8B%8F%E5%B7%9E/index.html</loc>
+    
+    <lastmod>2023-05-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/gallery/%E6%9D%AD%E5%B7%9E/index.html</loc>
     
     <lastmod>2023-05-11</lastmod>
@@ -20,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2023/05/08/front-end/echarts/</loc>
+    <loc>http://example.com/2023/05/11/hexo/</loc>
     
     <lastmod>2023-05-11</lastmod>
     
@@ -29,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2023/05/11/hexo/</loc>
+    <loc>http://example.com/2023/05/08/front-end/echarts/</loc>
     
     <lastmod>2023-05-11</lastmod>
     
@@ -57,15 +66,6 @@
   
   <url>
     <loc>http://example.com/2023/05/09/travel/%E6%9D%AD%E5%B7%9E/</loc>
-    
-    <lastmod>2023-05-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/gallery/%E8%8B%8F%E5%B7%9E/index.html</loc>
     
     <lastmod>2023-05-11</lastmod>
     
