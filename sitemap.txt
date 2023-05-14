@@ -1,4 +1,5 @@
-http://example.com/gallery/%E6%9C%88%E6%B2%B3%E5%8D%8E%E5%BA%AD%E8%A1%97/index.html
+http://example.com/gallery/index.html
+http://example.com/gallery/%E6%9C%88%E6%B2%B3/index.html
 http://example.com/2023/05/03/life/%E7%94%B5%E5%BD%B1/
 http://example.com/2023/05/06/life/%E6%B8%B8%E6%88%8F/
 http://example.com/2023/05/05/life/%E4%B9%A6%E5%8D%95/
@@ -17,7 +18,6 @@ http://example.com/2022/07/08/front-end/ajax/
 http://example.com/2022/07/08/front-end/vue3/
 http://example.com/2022/07/08/front-end/vue/
 http://example.com/2022/07/08/front-end/js-xz/
-http://example.com/gallery/index.html
 http://example.com/2022/07/08/travel/%E5%91%A8%E5%85%AD%E5%87%BA%E5%8E%BB%E7%8E%A9/
 http://example.com/2023/05/11/hello-world/
 http://example.com/2022/07/08/front-end/nodejs/
@@ -31,14 +31,14 @@ http://example.com/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/
 http://example.com/tags/Hexo/
 http://example.com/tags/%E4%BA%A4%E4%BA%92/
 http://example.com/tags/css/
-http://example.com/tags/ECMAScript/
 http://example.com/tags/jQuery/
 http://example.com/tags/javascript/
+http://example.com/tags/ECMAScript/
 http://example.com/tags/nodejs/
-http://example.com/tags/%E5%89%8D%E7%AB%AF/
 http://example.com/tags/%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6/
-http://example.com/tags/%E7%94%9F%E6%B4%BB/
+http://example.com/tags/%E5%89%8D%E7%AB%AF/
 http://example.com/tags/%E5%87%BA%E5%8E%BB%E7%8E%A9/
+http://example.com/tags/%E7%94%9F%E6%B4%BB/
 http://example.com/categories/%E5%89%8D%E5%90%8E%E7%AB%AF%E4%BA%A4%E4%BA%92/
 http://example.com/categories/%E5%89%8D%E7%AB%AF/
 http://example.com/categories/javascript/
