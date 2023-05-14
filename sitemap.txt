@@ -25,15 +25,15 @@ http://example.com/2023/02/12/front-end/es6/
 http://example.com/categories/index.html
 http://example.com/tags/index.html
 http://example.com/
-http://example.com/tags/hexo/
 http://example.com/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/
 http://example.com/tags/Hexo/
 http://example.com/tags/%E4%BA%A4%E4%BA%92/
 http://example.com/tags/css/
 http://example.com/tags/ECMAScript/
 http://example.com/tags/jQuery/
-http://example.com/tags/javascript/
+http://example.com/tags/hexo/
 http://example.com/tags/nodejs/
+http://example.com/tags/javascript/
 http://example.com/tags/%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6/
 http://example.com/tags/%E5%89%8D%E7%AB%AF/
 http://example.com/tags/%E7%94%9F%E6%B4%BB/
