@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-05-13T01:56:25.561Z</updated>
+  <updated>2023-05-11T12:18:21.641Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,50 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title></title>
-    <link href="http://example.com/2023/05/13/life/%E4%B9%A6%E5%8D%95/"/>
-    <id>http://example.com/2023/05/13/life/%E4%B9%A6%E5%8D%95/</id>
-    <published>2023-05-13T01:54:44.735Z</published>
-    <updated>2023-05-13T01:56:25.561Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="书"><a href="#书" class="headerlink" title="书"></a>书</h2><p>活着</p><p>爱你就像爱生命</p><p>绿毛水怪</p><p>月亮与六便士 </p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;书&quot;&gt;&lt;a href=&quot;#书&quot; class=&quot;headerlink&quot; title=&quot;书&quot;&gt;&lt;/a&gt;书&lt;/h2&gt;&lt;p&gt;活着&lt;/p&gt;
-&lt;p&gt;爱你就像爱生命&lt;/p&gt;
-&lt;p&gt;绿毛水怪&lt;/p&gt;
-&lt;p&gt;月亮与六便士 &lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://example.com/2023/05/12/game/%E5%8E%BB%E6%9C%88%E7%90%83/"/>
-    <id>http://example.com/2023/05/12/game/%E5%8E%BB%E6%9C%88%E7%90%83/</id>
-    <published>2023-05-12T12:57:32.805Z</published>
-    <updated>2023-05-12T14:51:54.206Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="去月球"><a href="#去月球" class="headerlink" title="去月球"></a>去月球</h2><h3 id="成就"><a href="#成就" class="headerlink" title="成就"></a>成就</h3><p><a href="https://www.bilibili.com/read/cv22787169">去月球–To the Moon成就解锁 - 哔哩哔哩 (bilibili.com)</a></p><ol><li>选择测试版</li><li>粘贴文件夹</li><li>重启</li></ol><h3 id="备注"><a href="#备注" class="headerlink" title="备注"></a>备注</h3><p>我们喜欢故事，爱玩游戏，爱看小说，并不是逃避现实，而是希望发现生活，从而为苍白无聊日复一日的生活增加一点趣味。</p><p>【为什么你一定要玩《去月球》？】 <a href="https://www.bilibili.com/video/BV16x411L7zw">https://www.bilibili.com/video/BV16x411L7zw</a></p><h3 id="备注-1"><a href="#备注-1" class="headerlink" title="备注"></a>备注</h3><p>第一幕</p><p>我从未告诉过任何人，但是······我一直以为，他们是灯塔。</p><p>第二幕</p><p>成千上万的灯塔······镶嵌在遥远的天际。</p><p>第三幕</p><p>它们让那些光芒照耀着其它灯塔，也照耀着我。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;去月球&quot;&gt;&lt;a href=&quot;#去月球&quot; class=&quot;headerlink&quot; title=&quot;去月球&quot;&gt;&lt;/a&gt;去月球&lt;/h2&gt;&lt;h3 id=&quot;成就&quot;&gt;&lt;a href=&quot;#成就&quot; class=&quot;headerlink&quot; title=&quot;成就&quot;&gt;&lt;/a&gt;成就&lt;/h3&gt;&lt;p</summary>
-      
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -142,6 +98,63 @@
     <category term="学习笔记" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     <category term="Hexo" scheme="http://example.com/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>游戏</title>
+    <link href="http://example.com/2023/05/06/life/%E6%B8%B8%E6%88%8F/"/>
+    <id>http://example.com/2023/05/06/life/%E6%B8%B8%E6%88%8F/</id>
+    <published>2023-05-06T04:55:00.000Z</published>
+    <updated>2023-05-14T13:13:34.395Z</updated>
+    
+    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="2313f89e3588f7dafcb6e1bee5f300d96be4c05f5d14cda2eb37f242c8b98a61">fb95aa7c407f8ccaa0f86ec63474b39f452eee2b01b48e993f20eaa815a6116693e184d154bd13286a05f2704b993bd9313cbd66352dbddaacdef2d8cc47680228cbe63b132892ce6369c2f05e1ef144775ef9d16a42544ec71205055c75322b666f694b16b7310cc13debf18d4d02edd14d4a47ecb331c71de98a99695b712e0242ba1ee70c6bbb2f9a62eb32f6c80d29418b87d628b9d2d52495ae495da47290f41f836db25ce5b250851a6217604cd6c5af61666051bb2d158614ea24df70b19d421c1d9ad311261f8f95fac3d5f1fc0aa73883772bbd2769fbcb6f80a1476dbcab0897cfe7b5cb98a7ea055fac121132d21f370a726170669963f3399cb78a106d4f84e0a3cabefa3509c162ad7017e24a7780385cc09486fe694a16b33fca5c542d25178d867eafb3335df0ba582c3c0666687b67d33e878c8e3a90ea81b86f3c39ca4815ba174493d8f3f1bc427eef9fee73071d3c39ce2c66b50326c600de57506a48cf1c8211fd5d6127dda9f7bc0198a3906a85a30fe0c93293d1ae783b8c5acf35ce2329138bf7e35a341ccedf6f0aabe2ebc5d9580f84b0162f447aa232596bf56bfaa8a79edbf805405581b4dfb89d96f19244218aaaec184fac36624756095001f5220e1159aedde9ce92b48cc448601756ae52a9d6ac425a1e2c8115e2ebc5baf2cc2850359b0f4a8b7fd8ffb3b063ec42f76d08e26e53c6bc21342818bda3ea0122b5c5f9e64de47a2b9aeb7c45a1dd8a62caedb7cd190d1c6647472e8d27c4a3288bd0b2ec32295c940a04d23d012da320bd69e721ef88c3f00836162e45e6d2cfd3f0bde76a8d0ebcf323375aa2c8ef173cb1312bd53db2371a31d400f61da0b8076238107bab5f126b50a0c118f099778f9cc90f8da75b4f408049d8dc2395a34e39266ab247a9767d5a421c449d708dc2b409bb5dd472facd5539ec034eb10c96cc7e0ad414537a9b1529a489ffdb2c97915c748d652606a02fcd142a7545298d4f88a26f4c6f74bc420e41f3e4cb01954796bcce743ef91d25ac5b039928e369302bddedc8fbab27742e896485ed10b2925715b766da1574e4c32ae70bc7e7575c9dd8067164ef1b0adb5569189a506e0fee68b684a87c98cc201e5661de71dae4b979ad83af9488eccf401edb100888cb7304e40e2ff6604f5b2fd364779a6813778adc43110d2fcb9ad58e73b64a036908273c869d24457534fe315e15cc6258642d49ae4e7aed3a954f87bea23e5a1b971cc2431d5305ff88acb6d24e099d8ee93ce69e609380a9b988d10970cf80e1a906720a1421645210bd4a749d57c55dface45bf85cb44a50be3246b6f747a4c4d83692e1a4199cde8cfc7d492fc2342329d4415ce344691af3cdbe77e93a6ed18541a044174c16801a50cfd4def5bd8149954811079049eecc0145ad466ee2c26ca1197074ddffe4c1b745c281486c8eb774f0a8a784d20a399f42b6a4859b694f2ca55a6ee6c19616517cf65f88131d9487bf2df8f03faaf95b59deaf69224ad3a2ca19dc9d1fdf74f39454caadac52a8cc33e3fd81b9b8a65fe15b6d1eb5d6ec8286164976e30e9c6745d9bcdc4b388ab1a5c9f215739bbb4b9d3931d4465a947efb65bf884c943d93f20097e37ec5e81c7176a7b6126cc644df5b5530a56a1e2a861a8a1e86e6cd3c3037a96654a9849eb1ca2</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    <summary type="html">记录</summary>
+    
+    
+    
+    
+    <category term="生活" scheme="http://example.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>书单</title>
+    <link href="http://example.com/2023/05/05/life/%E4%B9%A6%E5%8D%95/"/>
+    <id>http://example.com/2023/05/05/life/%E4%B9%A6%E5%8D%95/</id>
+    <published>2023-05-05T04:55:00.000Z</published>
+    <updated>2023-05-14T13:13:11.772Z</updated>
+    
+    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="08120071ade1bc0453490cd3db9ca171c5957ea8b7ab66446b635caaa6d9002a">5c26bc69274ad1c43e24520f4bf4a16d3b2b629410ecd725e5f5330ab5c9a99bf81bfd1020ee24ac5d3105aeae060c93366bba123897ccd86ee91b435410f362aefe5ee54a3226e916e58b013496607cb364e8e519461e5e69e5b7d69358abdbae634e2f227edb412eb6164fb4aad2a3d84ccf6a46c8085c9d6cb2b4f0b4b1e8ca0f6e1403f983033be8cae9a1eb5d2030e3816cb8b1d6d55f864076b5070c317ff9267ae13539c763b3c3dd80fdcb358cabbddcb97f7c4a3335d8e84e321649</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    <summary type="html">记录</summary>
+    
+    
+    
+    
+    <category term="生活" scheme="http://example.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我</title>
+    <link href="http://example.com/2023/05/03/life/%E7%94%B5%E5%BD%B1/"/>
+    <id>http://example.com/2023/05/03/life/%E7%94%B5%E5%BD%B1/</id>
+    <published>2023-05-03T04:55:00.000Z</published>
+    <updated>2023-05-14T13:13:59.801Z</updated>
+    
+    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="cf7912c8044a758eea6b25cf3fbb1a190d33c0794adce108187a563008e1f719">fb95aa7c407f8ccaa0f86ec63474b39f452eee2b01b48e993f20eaa815a611664b1228075242b608faedde0f18e6b2f566f9a2ca6bd1a143c28f7a0563aeddb1492ebca9f3c5ec7b149647061a5ecb2a1535b1c6b4a4d2db773d36ec8b7ca3a342d03a6974498375c07af88bfde79f472d2639a1e08f0d1187bb03b028b6c1f64ab9180d52ea81bd4e3133ee088ad67e9fbf5bc60d84e90b8ac00ce0489b0e6c0d08020a99b740430deefaf7fdc2ac55ac35da054d6ea4b3da7005a3cd58db36f5bc138cbe9bb89fa5a646cc68c4d33930679854a3c782a5587bc848be0ee8aa79870896766035c1dfe39dc1dd29442bc7dfed5ba67369fd156f8222afe767fb</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    <summary type="html">记录</summary>
+    
+    
+    
+    
+    <category term="生活" scheme="http://example.com/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
