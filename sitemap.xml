@@ -303,14 +303,14 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/nodejs/</loc>
+    <loc>http://example.com/tags/javascript/</loc>
     <lastmod>2023-05-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/javascript/</loc>
+    <loc>http://example.com/tags/nodejs/</loc>
     <lastmod>2023-05-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -354,14 +354,14 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/javascript/</loc>
+    <loc>http://example.com/categories/%E5%89%8D%E7%AB%AF/</loc>
     <lastmod>2023-05-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/%E5%89%8D%E7%AB%AF/</loc>
+    <loc>http://example.com/categories/javascript/</loc>
     <lastmod>2023-05-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
