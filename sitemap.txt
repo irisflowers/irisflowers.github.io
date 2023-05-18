@@ -1,6 +1,6 @@
-http://example.com/2023/05/07/front-end/js/
-http://example.com/categories/index.html
 http://example.com/life/index.html
+http://example.com/categories/index.html
+http://example.com/2023/05/07/front-end/js/
 http://example.com/2023/05/16/%E5%8D%9A%E5%AE%A2/
 http://example.com/2023/03/03/life/%E7%BD%91%E7%AB%99/
 http://example.com/2023/03/04/life/%E5%8D%9A%E5%AE%A2/
