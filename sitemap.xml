@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2022/07/08/front-end/index/</loc>
+    <loc>http://example.com/life/index.html</loc>
     
     <lastmod>2023-05-18</lastmod>
     
@@ -13,7 +13,7 @@
   <url>
     <loc>http://example.com/2023/05/16/%E5%8D%9A%E5%AE%A2/</loc>
     
-    <lastmod>2023-05-17</lastmod>
+    <lastmod>2023-05-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -325,13 +325,6 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/ECMAScript/</loc>
-    <lastmod>2023-05-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/tags/%E5%89%8D%E7%AB%AF/</loc>
     <lastmod>2023-05-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -339,7 +332,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6/</loc>
+    <loc>http://example.com/tags/ECMAScript/</loc>
     <lastmod>2023-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -374,7 +367,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E5%87%BA%E5%8E%BB%E7%8E%A9/</loc>
+    <loc>http://example.com/tags/%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6/</loc>
     <lastmod>2023-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -382,6 +375,13 @@
   
   <url>
     <loc>http://example.com/tags/%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2023-05-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/%E5%87%BA%E5%8E%BB%E7%8E%A9/</loc>
     <lastmod>2023-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
