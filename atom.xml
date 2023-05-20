@@ -30,7 +30,7 @@
     
     
     
-    <category term="建站" scheme="http://example.com/post/%E5%BB%BA%E7%AB%99/"/>
+    <category term="建站" scheme="http://example.com/categories/%E5%BB%BA%E7%AB%99/"/>
     
     
     <category term="学习笔记" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
@@ -75,7 +75,7 @@
     
     
     
-    <category term="travel" scheme="http://example.com/post/travel/"/>
+    <category term="travel" scheme="http://example.com/categories/travel/"/>
     
     
   </entry>
@@ -151,7 +151,7 @@
     
     
     
-    <category term="life" scheme="http://example.com/post/life/"/>
+    <category term="life" scheme="http://example.com/categories/life/"/>
     
     
     <category term="生活" scheme="http://example.com/tags/%E7%94%9F%E6%B4%BB/"/>
@@ -191,7 +191,7 @@
     
     
     
-    <category term="前端" scheme="http://example.com/post/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="http://example.com/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
     <category term="ECMAScript" scheme="http://example.com/tags/ECMAScript/"/>
@@ -212,7 +212,7 @@
     
     
     
-    <category term="前后端交互" scheme="http://example.com/post/%E5%89%8D%E5%90%8E%E7%AB%AF%E4%BA%A4%E4%BA%92/"/>
+    <category term="前后端交互" scheme="http://example.com/categories/%E5%89%8D%E5%90%8E%E7%AB%AF%E4%BA%A4%E4%BA%92/"/>
     
     
     <category term="交互" scheme="http://example.com/tags/%E4%BA%A4%E4%BA%92/"/>
@@ -233,7 +233,7 @@
     
     
     
-    <category term="前端" scheme="http://example.com/post/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="http://example.com/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
     <category term="css" scheme="http://example.com/tags/css/"/>
@@ -311,7 +311,7 @@
     
     
     
-    <category term="前端" scheme="http://example.com/post/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="http://example.com/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
     <category term="组件库" scheme="http://example.com/tags/%E7%BB%84%E4%BB%B6%E5%BA%93/"/>
@@ -351,7 +351,7 @@
     
     
     
-    <category term="前端" scheme="http://example.com/post/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="http://example.com/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
     <category term="前端框架" scheme="http://example.com/tags/%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6/"/>
