@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/p/cbb51f99/</loc>
+    
+    <lastmod>2023-05-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/p/4a17b156/</loc>
+    
+    <lastmod>2023-05-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/p/ab21860c/</loc>
+    
+    <lastmod>2023-05-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/p/f452ef32/</loc>
     
     <lastmod>2023-05-20</lastmod>
@@ -12,24 +39,6 @@
   
   <url>
     <loc>http://example.com/p/c5a6a264/</loc>
-    
-    <lastmod>2023-05-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/p/cbb51f99/</loc>
-    
-    <lastmod>2023-05-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/p/ab21860c/</loc>
     
     <lastmod>2023-05-20</lastmod>
     
@@ -165,15 +174,6 @@
   
   <url>
     <loc>http://example.com/p/78cea6d8/</loc>
-    
-    <lastmod>2023-05-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/p/4a17b156/</loc>
     
     <lastmod>2023-05-20</lastmod>
     
@@ -358,13 +358,6 @@
 
   
   <url>
-    <loc>http://example.com/post/%E5%BB%BA%E7%AB%99/</loc>
-    <lastmod>2023-05-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/post/%E5%89%8D%E7%AB%AF/</loc>
     <lastmod>2023-05-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -373,6 +366,13 @@
   
   <url>
     <loc>http://example.com/post/life/</loc>
+    <lastmod>2023-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/post/blog/</loc>
     <lastmod>2023-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
