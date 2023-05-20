@@ -40,8 +40,8 @@ http://example.com/tags/nodejs/
 http://example.com/tags/%E7%BB%84%E4%BB%B6%E5%BA%93/
 http://example.com/tags/%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6/
 http://example.com/tags/%E7%94%9F%E6%B4%BB/
-http://example.com/categories/%E5%BB%BA%E7%AB%99/
-http://example.com/categories/%E5%89%8D%E5%90%8E%E7%AB%AF%E4%BA%A4%E4%BA%92/
-http://example.com/categories/%E5%89%8D%E7%AB%AF/
-http://example.com/categories/life/
-http://example.com/categories/travel/
+http://example.com/post/%E5%BB%BA%E7%AB%99/
+http://example.com/post/%E5%89%8D%E5%90%8E%E7%AB%AF%E4%BA%A4%E4%BA%92/
+http://example.com/post/%E5%89%8D%E7%AB%AF/
+http://example.com/post/life/
+http://example.com/post/travel/
