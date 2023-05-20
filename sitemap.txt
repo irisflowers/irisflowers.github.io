@@ -1,4 +1,5 @@
 http://example.com/p/f452ef32/
+http://example.com/p/c5a6a264/
 http://example.com/p/cbb51f99/
 http://example.com/p/ab21860c/
 http://example.com/life/index.html
@@ -16,7 +17,6 @@ http://example.com/p/b8929ec/
 http://example.com/p/3bf3e06d/
 http://example.com/p/7af56f75/
 http://example.com/p/78cea6d8/
-http://example.com/p/c5a6a264/
 http://example.com/p/4a17b156/
 http://example.com/fileloader/index.html
 http://example.com/categories/index.html
@@ -40,8 +40,6 @@ http://example.com/tags/%E7%BB%84%E4%BB%B6%E5%BA%93/
 http://example.com/tags/nodejs/
 http://example.com/tags/%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6/
 http://example.com/tags/%E7%94%9F%E6%B4%BB/
-http://example.com/categories/%E5%BB%BA%E7%AB%99/
-http://example.com/categories/%E5%89%8D%E5%90%8E%E7%AB%AF%E4%BA%A4%E4%BA%92/
-http://example.com/categories/%E5%89%8D%E7%AB%AF/
-http://example.com/categories/life/
-http://example.com/categories/travel/
+http://example.com/post/%E5%BB%BA%E7%AB%99/
+http://example.com/post/%E5%89%8D%E7%AB%AF/
+http://example.com/post/life/
