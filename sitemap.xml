@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>http://example.com/p/ab21860c/</loc>
+    
+    <lastmod>2023-05-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/p/c0add594/</loc>
     
     <lastmod>2023-05-22</lastmod>
@@ -50,15 +59,6 @@
     <loc>http://example.com/p/e8a1470d/</loc>
     
     <lastmod>2023-05-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/p/ab21860c/</loc>
-    
-    <lastmod>2023-05-21</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -287,13 +287,6 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E7%BB%84%E4%BB%B6%E5%BA%93/</loc>
-    <lastmod>2023-05-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/tags/jQuery/</loc>
     <lastmod>2023-05-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -302,6 +295,13 @@
   
   <url>
     <loc>http://example.com/tags/javascript/</loc>
+    <lastmod>2023-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/%E7%BB%84%E4%BB%B6%E5%BA%93/</loc>
     <lastmod>2023-05-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
