@@ -1,3 +1,6 @@
+http://example.com/p/d248b5c8/
+http://example.com/p/6a3c4a8b/
+http://example.com/p/f452ef32/
 http://example.com/p/3fa5481a/
 http://example.com/p/a7306e47/
 http://example.com/p/e8a1470d/
@@ -12,10 +15,7 @@ http://example.com/link/index.html
 http://example.com/categories/index.html
 http://example.com/tags/index.html
 http://example.com/p/3458e8f8/
-http://example.com/p/d248b5c8/
-http://example.com/p/6a3c4a8b/
 http://example.com/p/4a17b156/
-http://example.com/p/f452ef32/
 http://example.com/p/d87424a9/
 http://example.com/p/9a707413/
 http://example.com/p/3bf3e06d/
@@ -38,6 +38,6 @@ http://example.com/tags/javascript/
 http://example.com/tags/nodejs/
 http://example.com/tags/%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6/
 http://example.com/post/blog/
-http://example.com/post/life/
 http://example.com/post/%E5%89%8D%E7%AB%AF/
 http://example.com/post/me/
+http://example.com/post/travel/
