@@ -43,7 +43,6 @@ http://example.com/tags/javascript/
 http://example.com/tags/jQuery/
 http://example.com/tags/nodejs/
 http://example.com/tags/%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6/
-http://example.com/tags/life/
 http://example.com/post/blog/
 http://example.com/post/%E5%89%8D%E7%AB%AF/
 http://example.com/post/life/
