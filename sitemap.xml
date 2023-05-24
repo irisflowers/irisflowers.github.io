@@ -365,21 +365,14 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/css/</loc>
-    <lastmod>2023-05-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/jQuery/</loc>
-    <lastmod>2023-05-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/tags/%E4%BA%A4%E4%BA%92/</loc>
+    <lastmod>2023-05-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/css/</loc>
     <lastmod>2023-05-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -394,6 +387,13 @@
   
   <url>
     <loc>http://example.com/tags/%E7%BB%84%E4%BB%B6%E5%BA%93/</loc>
+    <lastmod>2023-05-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/jQuery/</loc>
     <lastmod>2023-05-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -423,35 +423,35 @@
 
   
   <url>
-    <loc>http://example.com/post/blog/blog/</loc>
+    <loc>http://example.com/post-blog/blog/</loc>
     <lastmod>2023-05-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/post/blog/%E5%89%8D%E7%AB%AF/</loc>
+    <loc>http://example.com/post-blog/%E5%89%8D%E7%AB%AF/</loc>
     <lastmod>2023-05-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/post/blog/life/</loc>
+    <loc>http://example.com/post-blog/life/</loc>
     <lastmod>2023-05-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/post/blog/md/</loc>
+    <loc>http://example.com/post-blog/md/</loc>
     <lastmod>2023-05-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/post/blog/me/</loc>
+    <loc>http://example.com/post-blog/me/</loc>
     <lastmod>2023-05-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
