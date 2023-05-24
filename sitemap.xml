@@ -11,124 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/p/255e6169/</loc>
-    
-    <lastmod>2023-05-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/p/aa9c5c7c/</loc>
-    
-    <lastmod>2023-05-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/p/cb855640/</loc>
-    
-    <lastmod>2023-05-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/p/71247d15/</loc>
-    
-    <lastmod>2023-05-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/p/e8a1470d/</loc>
-    
-    <lastmod>2023-05-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/p/3458e8f8/</loc>
-    
-    <lastmod>2023-05-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/p/b56c83b9/</loc>
-    
-    <lastmod>2023-05-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/p/db118f21/</loc>
-    
-    <lastmod>2023-05-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/p/a7306e47/</loc>
-    
-    <lastmod>2023-05-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/p/72b5a919/</loc>
-    
-    <lastmod>2023-05-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/p/cbb51f99/</loc>
-    
-    <lastmod>2023-05-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/p/d90f63aa/</loc>
-    
-    <lastmod>2023-05-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/p/3d52e40c/</loc>
-    
-    <lastmod>2023-05-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/p/b5c7b82d/</loc>
     
     <lastmod>2023-05-23</lastmod>
     
@@ -379,6 +262,13 @@
   </url>
   
   <url>
+    <loc>http://example.com/tags/%E7%BB%84%E4%BB%B6%E5%BA%93/</loc>
+    <lastmod>2023-05-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/tags/ECMAScript/</loc>
     <lastmod>2023-05-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -387,13 +277,6 @@
   
   <url>
     <loc>http://example.com/tags/jQuery/</loc>
-    <lastmod>2023-05-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/%E7%BB%84%E4%BB%B6%E5%BA%93/</loc>
     <lastmod>2023-05-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -430,6 +313,13 @@
   </url>
   
   <url>
+    <loc>http://example.com/post-blog/me/</loc>
+    <lastmod>2023-05-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/post-blog/%E5%89%8D%E7%AB%AF/</loc>
     <lastmod>2023-05-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -438,20 +328,6 @@
   
   <url>
     <loc>http://example.com/post-blog/life/</loc>
-    <lastmod>2023-05-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/post-blog/md/</loc>
-    <lastmod>2023-05-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/post-blog/me/</loc>
     <lastmod>2023-05-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
