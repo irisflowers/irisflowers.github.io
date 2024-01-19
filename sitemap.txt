@@ -25,10 +25,10 @@ http://example.com/tags/index.html
 http://example.com/gallery/%E5%A8%B1%E4%B9%90/index.html
 http://example.com/
 http://example.com/tags/hello/
+http://example.com/tags/%E5%8E%86%E5%8F%B2%E5%B0%8F%E8%AF%B4/
+http://example.com/tags/%E5%A4%96%E5%9B%BD%E5%B0%8F%E8%AF%B4/
 http://example.com/tags/hexo%E6%8F%92%E4%BB%B6/
 http://example.com/tags/%E6%96%87%E7%AB%A0%E9%85%8D%E7%BD%AE/
 http://example.com/tags/hexo/
-http://example.com/tags/%E5%8E%86%E5%8F%B2%E5%B0%8F%E8%AF%B4/
-http://example.com/tags/%E5%A4%96%E5%9B%BD%E5%B0%8F%E8%AF%B4/
 http://example.com/categories/%E5%BB%BA%E7%AB%99/
 http://example.com/categories/%E5%B0%8F%E8%AF%B4/
