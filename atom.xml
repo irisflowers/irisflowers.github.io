@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-01-17T10:46:43.781Z</updated>
+  <updated>2024-01-20T14:07:52.610Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello</title>
+    <title>Hello201</title>
     <link href="http://example.com/2024/01/17/hello/"/>
     <id>http://example.com/2024/01/17/hello/</id>
     <published>2024-01-17T10:55:01.000Z</published>
-    <updated>2024-01-17T10:46:43.781Z</updated>
+    <updated>2024-01-20T14:07:52.610Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><p>localhost<br><a href="http://localhost:4000/2023/07/14/life/jx/">http://localhost:4000/2023/07/14/life/jx/</a><br><a href="http://localhost:4000/2022/07/08/life/%E8%8B%8F%E5%B7%9E/">http://localhost:4000/2022/07/08/life/%E8%8B%8F%E5%B7%9E/</a><br><a href="http://localhost:4000/2023/03/12/life/%E6%9D%AD%E5%B7%9E/">http://localhost:4000/2023/03/12/life/%E6%9D%AD%E5%B7%9E/</a><br><a href="http://localhost:4000/2024/01/15/life/hz/">http://localhost:4000/2024/01/15/life/hz/</a><br>github.io<br><a href="https://hmbir.github.io/2023/07/14/life/jx/">https://hmbir.github.io/2023/07/14/life/jx/</a><br><a href="https://hmbir.github.io/2022/07/08/life/%E8%8B%8F%E5%B7%9E/">https://hmbir.github.io/2022/07/08/life/%E8%8B%8F%E5%B7%9E/</a><br><a href="https://hmbir.github.io/2023/03/12/life/%E6%9D%AD%E5%B7%9E/">https://hmbir.github.io/2023/03/12/life/%E6%9D%AD%E5%B7%9E/</a><br><a href="https://hmbir.github.io/2024/01/15/life/hz/">https://hmbir.github.io/2024/01/15/life/hz/</a></p>]]></content>
     
