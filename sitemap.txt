@@ -1,8 +1,8 @@
 http://example.com/p/4a17b156/
-http://example.com/p/f18fb1bd/
 http://example.com/p/9d8b62ee/
-http://example.com/p/2152543b/
+http://example.com/p/f18fb1bd/
 http://example.com/p/d5f4a94c/
+http://example.com/p/2152543b/
 http://example.com/p/6ecae093/
 http://example.com/p/188581a7/
 http://example.com/p/e00e8e2f/
@@ -24,9 +24,9 @@ http://example.com/
 http://example.com/tags/hello/
 http://example.com/tags/%E8%AE%B0%E5%BD%95/
 http://example.com/tags/hexo%E6%8F%92%E4%BB%B6/
-http://example.com/tags/hexo/
 http://example.com/tags/other/
 http://example.com/tags/%E7%94%B5%E8%84%91/
+http://example.com/tags/hexo/
 http://example.com/tags/%E5%A4%96%E5%9B%BD%E5%B0%8F%E8%AF%B4/
 http://example.com/categories/%E5%BB%BA%E7%AB%99/
 http://example.com/categories/%E6%B8%B8%E6%88%8F/
