@@ -19,8 +19,8 @@ http://example.com/
 http://example.com/tags/hello/
 http://example.com/tags/%E8%AE%B0%E5%BD%95/
 http://example.com/tags/hexo%E6%8F%92%E4%BB%B6/
-http://example.com/tags/%E7%94%B5%E8%84%91/
 http://example.com/tags/hexo/
+http://example.com/tags/%E7%94%B5%E8%84%91/
 http://example.com/categories/%E5%BB%BA%E7%AB%99/
 http://example.com/categories/%E6%B8%B8%E6%88%8F/
 http://example.com/categories/%E7%94%B5%E8%84%91/

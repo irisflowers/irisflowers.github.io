@@ -4,7 +4,7 @@
   <url>
     <loc>http://example.com/p/4a17b156/</loc>
     
-    <lastmod>2024-02-13</lastmod>
+    <lastmod>2024-05-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -185,14 +185,14 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E7%94%B5%E8%84%91/</loc>
+    <loc>http://example.com/tags/hexo/</loc>
     <lastmod>2024-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/hexo/</loc>
+    <loc>http://example.com/tags/%E7%94%B5%E8%84%91/</loc>
     <lastmod>2024-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
