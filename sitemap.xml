@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>http://example.com/gallery/%E5%9C%9F%E8%B1%86%E5%85%84%E5%BC%9F/index.html</loc>
+    
+    <lastmod>2024-10-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/gallery/%E6%9D%AD%E5%B7%9E/index.html</loc>
     
     <lastmod>2024-10-24</lastmod>
@@ -39,33 +48,6 @@
   
   <url>
     <loc>http://example.com/p/a30e1f2r/</loc>
-    
-    <lastmod>2024-10-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/gallery/ft/index.html</loc>
-    
-    <lastmod>2024-10-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/gallery/folder/index.html</loc>
-    
-    <lastmod>2024-10-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/gallery/titlexxx/index.html</loc>
     
     <lastmod>2024-10-24</lastmod>
     
@@ -200,7 +182,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/p/7e7a0ee/</loc>
+    <loc>http://example.com/p/225f6e5f/</loc>
     
     <lastmod>2024-02-13</lastmod>
     
@@ -209,7 +191,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/p/225f6e5f/</loc>
+    <loc>http://example.com/p/7e7a0ee/</loc>
     
     <lastmod>2024-02-13</lastmod>
     
@@ -286,14 +268,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/hexo%E6%8F%92%E4%BB%B6/</loc>
-    <lastmod>2024-10-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/hexo/</loc>
+    <loc>http://example.com/tags/%E5%A8%B1%E4%B9%90/</loc>
     <lastmod>2024-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -307,7 +282,14 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E5%A8%B1%E4%B9%90/</loc>
+    <loc>http://example.com/tags/hexo%E6%8F%92%E4%BB%B6/</loc>
+    <lastmod>2024-10-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/hexo/</loc>
     <lastmod>2024-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -323,14 +305,14 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/%E7%94%B5%E8%84%91/</loc>
+    <loc>http://example.com/categories/%E5%A8%B1%E4%B9%90/</loc>
     <lastmod>2024-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/%E5%A8%B1%E4%B9%90/</loc>
+    <loc>http://example.com/categories/%E7%94%B5%E8%84%91/</loc>
     <lastmod>2024-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
