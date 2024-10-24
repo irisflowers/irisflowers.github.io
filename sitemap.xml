@@ -11,6 +11,33 @@
   </url>
   
   <url>
+    <loc>http://example.com/gallery/ft/index.html</loc>
+    
+    <lastmod>2024-10-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/gallery/folder/index.html</loc>
+    
+    <lastmod>2024-10-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/gallery/titlexxx/index.html</loc>
+    
+    <lastmod>2024-10-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/gallery/%E5%AF%BB%E6%A2%A6%E7%8E%AF%E6%B8%B8%E8%AE%B0/index.html</loc>
     
     <lastmod>2024-10-24</lastmod>

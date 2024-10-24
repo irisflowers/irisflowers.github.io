@@ -1,4 +1,7 @@
 http://example.com/gallery/index.html
+http://example.com/gallery/ft/index.html
+http://example.com/gallery/folder/index.html
+http://example.com/gallery/titlexxx/index.html
 http://example.com/gallery/%E5%AF%BB%E6%A2%A6%E7%8E%AF%E6%B8%B8%E8%AE%B0/index.html
 http://example.com/gallery/%E6%9D%AD%E5%B7%9E/index.html
 http://example.com/gallery/%E8%94%9A%E8%93%9D/index.html
